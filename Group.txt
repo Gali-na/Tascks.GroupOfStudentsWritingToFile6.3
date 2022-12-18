@@ -1,0 +1,11 @@
+GGG-1
+Ostapenko Luba WOMAN 20 5 
+Ivanov Oleg MAN 20 2 
+Petriv Andrey MAN 20 5 
+Tsivks Anna WOMAN 20 4 
+Sidorov Pavel MAN 20 4 
+Zolotareva Natalia WOMAN 19 3 
+Zolotareva Aria WOMAN 20 3 
+Ostapenko Sergey MAN 18 4 
+Tsivka Galina WOMAN 20 4 
+Zolotarev Yriy MAN 18 4 
